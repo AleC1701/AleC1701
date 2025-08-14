@@ -1,7 +1,7 @@
 ## Oie! Sou a Alessandra 👋
 
 
-- 🌱 Estudando: HTML, CSS e Javascript
+- 🌱 Estudando: HTML, CSS, Javascript e Python
 
 
 <div style="display: inline_block"><br>
